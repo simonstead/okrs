@@ -4,5 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: main
 ---
-# The links above are for Current OKRs
-## View the achive [here](http://www.google.com)
