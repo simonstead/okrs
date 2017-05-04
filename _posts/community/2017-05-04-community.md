@@ -1,47 +1,77 @@
-# Community objectives & key results
+---
+layout: page
+title:  "Community"
+categories: current community
+permalink: :categories.html
+description: "What can I do to help my community?"
+---
 
-## Objective
 
-> **...........be good at my job?**
-> **...........what can i do to help the team?**
+---
 
-> idk, do stuff
+Objective
+
+---
+
+## "The objective"
+>
+>
 
 ## Duration
+> May - July 2017
 
-> **May - July 2017**
+
+<br><br>
+
 
 ---
-## Achievable
----
-### Key result 1
 
-> Have a **65 day** Github commit streak _(weekdays only)_
+Key result 1
+
+---
+
+> ## Another Key Result
 
 ### Status
 
-> I've had **n** days off since the start of May.
-rewrite go api
----
-### Key result 2
+* How's it going?
 
-> Do a thing
+
+<br>
+
+---
+
+Key result 2
+
+---
+
+> ## Another Key Result
 
 ### Status
 
-> Still doing the thing
+* How's it going?
+
+
+<br>
 
 ---
-### Key result 3
 
-> Do a thing
+Key result 3
+
+---
+
+> ## Another Key Result
 
 ### Status
 
-> Still doing the thing
+* How's it going?
+
+
+<br><br>
 
 ---
-## Stretch Goals
+Stretch Goals
+
 ---
 ### Key result 4
 
@@ -49,7 +79,7 @@ rewrite go api
 
 ### Status
 
-> Still doing the thing
+* Still doing the thing
 
 ---
 ### Key result 5
@@ -58,4 +88,4 @@ rewrite go api
 
 ### Status
 
-> Still doing the thing
+* Still doing the thing

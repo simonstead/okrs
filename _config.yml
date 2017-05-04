@@ -22,6 +22,9 @@ url: "simonstead.herokuapp.com" # the base hostname & protocol for your site, e.
 twitter_username: simonstead
 github_username:  simonstead
 
+show_downloads: true
+
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-midnight
