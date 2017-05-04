@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="/css/my.css">
+    <link rel="stylesheet" href="{{ '/css/my.css' | prepend: site.baseurl }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
@@ -21,11 +21,11 @@
       <div id="header">
         <nav>
           <ul>
-            <li class="fork"><a href="/">Home</a></li>
-            <li class="fork"><a href="/current/personal/">Personal</a></li>
-            <li class="fork"><a href="/current/individual/">Individual</a></li>
-            <li class="fork"><a href="/current/team/">Team</a></li>
-            <li class="fork"><a href="/current/community/">Community</a></li>
+            <li class="fork"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+            <li class="fork"><a href="{{ '/current/personal/' | prepend: site.baseurl }}">Personal</a></li>
+            <li class="fork"><a href="{{ '/current/individual/' | prepend: site.baseurl }}">Individual</a></li>
+            <li class="fork"><a href="{{ '/current/team/' | prepend: site.baseurl }}">Team</a></li>
+            <li class="fork"><a href="{{ '/current/community/' | prepend: site.baseurl }}">Community</a></li>
           </ul>
           <!-- {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
