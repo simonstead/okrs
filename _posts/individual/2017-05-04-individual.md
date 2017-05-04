@@ -13,12 +13,11 @@ Objective
 
 ---
 
-## "The objective"
->
+## *"Build better digital services for the food business"*
 >
 
-## Duration
-> May - July 2017
+### Duration
+* May - July 2017
 
 
 <br><br>
@@ -30,11 +29,11 @@ Key result 1
 
 ---
 
-> ## Another Key Result
+> ## Rewrite the Store Dashboard API in python
 
 ### Status
 
-* How's it going?
+* I'm currently looking into which parts we'll need.
 
 
 <br>
@@ -45,11 +44,12 @@ Key result 2
 
 ---
 
-> ## Another Key Result
+> ## Write and deploy a stateful React.js/Redux application to the web by **the 15th of june**
 
 ### Status
 
-* How's it going?
+* I've made a few apps recently with React, like https://damaging-tories.herokuapp.com/
+* Next step is to implement Redux in an application that has a complex state.
 
 
 <br>
