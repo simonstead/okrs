@@ -17,7 +17,7 @@ title: Simon Stead - Objectives & Key Results
 email: simon.stead@coopdigital.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   I could make neither head nor tail of what OKRs were, and how I should be displaying and tracking them. So like any good nerd, I made source controlled them and put them on a website.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/okrs" # the subpath of your site, e.g. /blog
 url: "simonstead.herokuapp.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: simonstead
 github_username:  simonstead
