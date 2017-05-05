@@ -29,11 +29,11 @@ Key result 1
 
 ---
 
-> ## Rewrite the Store Dashboard API in python
+> ## Rewrite the Store Dashboard API in python by **the end of may**
 
 ### Status
 
-* I'm currently looking into which parts we'll need.
+* I'm currently looking into which parts we'll need and investigating the pusher python module.
 
 
 <br>
@@ -48,7 +48,7 @@ Key result 2
 
 ### Status
 
-* I've made a few apps recently with React, like https://damaging-tories.herokuapp.com/
+* I've made a few apps recently with React, like [https://damaging-tories.herokuapp.com/](https://damaging-tories.herokuapp.com/)
 * Next step is to implement Redux in an application that has a complex state.
 
 
