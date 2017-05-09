@@ -35,7 +35,6 @@ Key result 1
 
 * I'm currently looking into which parts we'll need and investigating the pusher python module.
 
-
 <br>
 
 ---
