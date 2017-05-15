@@ -14,7 +14,7 @@ Objective
 ---
 
 ## *"Build better digital services for the food business"*
->
+
 
 ### Duration
 * May - July 2017
@@ -29,7 +29,7 @@ Key result 1
 
 ---
 
-> ## Rewrite the Store Dashboard API in python by **the end of may**
+> ## Rewrite the Store Dashboard API in python by **the end of june**
 
 ### Status
 
@@ -49,7 +49,7 @@ Key result 2
 
 * I've made a few apps recently with React, like [https://damaging-tories.herokuapp.com/](https://damaging-tories.herokuapp.com/)
 * Next step is to implement Redux in an application that has a complex state.
-
+* I've tried to write a simple redux-react scaffold that I can reuse, but there's one niggly bug.
 
 <br>
 
@@ -59,11 +59,13 @@ Key result 3
 
 ---
 
-> ## Another Key Result
+> ## Make foodshare live by the **end of june**
 
 ### Status
 
-* How's it going?
+* Rewritten in python.
+* Need to wire it up to an s3 bucket to persist the data
+* Need to update tests
 
 
 <br><br>
