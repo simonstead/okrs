@@ -29,7 +29,7 @@ Objective
 ### Key result 1
 
 ---
-
+**Hardly working**
 > ## Mentor a student from outside Co-op
 
 ### Status
@@ -44,7 +44,7 @@ Objective
 ### Key result 2
 
 ---
-
+**Practice what you teach**
 > ## Share my learnings about React.js with the Front end community
 
 ### Status

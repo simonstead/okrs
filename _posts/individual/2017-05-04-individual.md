@@ -28,7 +28,7 @@ Objective
 Key result 1
 
 ---
-
+**The back**
 > ## Rewrite the Store Dashboard API in python by **the end of june**
 
 ### Status
@@ -42,7 +42,7 @@ Key result 1
 Key result 2
 
 ---
-
+**The front**
 > ## Write and deploy a stateful React.js/Redux application to the web by **the 15th of june**
 
 ### Status
@@ -58,7 +58,7 @@ Key result 2
 Key result 3
 
 ---
-
+**The foody**
 > ## Make foodshare live by the **end of june**
 
 ### Status
