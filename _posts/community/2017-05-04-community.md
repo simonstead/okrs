@@ -14,7 +14,7 @@ Objective
 ---
 
 ## "Grow the community, inside and out"
-> Help mature this fledgling community of engineers internally, while spreading the love to the rest of the Co-op, and beyond.
+> Help mature this community of engineers internally, while spreading the love to the rest of the Co-op, and beyond.
 
 
 ## Duration
@@ -50,6 +50,7 @@ Objective
 ### Status
 
 * I'm still learning, and will probably do this in **june**.
+* I can do this as a 1 hour session
 
 
 <br>
@@ -79,7 +80,7 @@ Stretch Goals
 
 ### Status
 
-* Not started
+* Not started, talk to Gem about this.
 
 ---
 ### Key result 5
