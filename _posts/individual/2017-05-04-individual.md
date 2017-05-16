@@ -47,7 +47,7 @@ Key result 2
 
 ### Status
 
-* I've made a few apps recently with React, like [https://damaging-tories.herokuapp.com/](https://damaging-tories.herokuapp.com/)
+* I've made a few test apps recently with React, but nothing with _lots_ of state.
 * Next step is to implement Redux in an application that has a complex state.
 * I've tried to write a simple redux-react scaffold that I can reuse, but there's one niggly bug.
 

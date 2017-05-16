@@ -6,4 +6,4 @@ permalink: /:categories/:year/:month/:day/:title/
 
 ---
 
-# I'm one too
+#  I'm another test archived post
