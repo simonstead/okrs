@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/css/my.css' | prepend: site.baseurl }}">
@@ -43,9 +44,13 @@
 
         <!-- {{ content }} -->
 
-        <h1>The links above are for Current OKRs</h1>
-        <h2>View the <a href="{{ '/archive' | prepend: site.baseurl }}">archive</a></h2>
-
+        <div><a href="{{ '/' | prepend: site.baseurl }}">Home</a></div>
+        <div><a href="{{ '/current/personal' | prepend: site.baseurl }}">Personal</a></div>
+        <div><a href="{{ '/current/individual' | prepend: site.baseurl }}">Individual</a></div>
+        <div><a href="{{ '/current/team' | prepend: site.baseurl }}">Team</a></div>
+        <div><a href="{{ '/current/community' | prepend: site.baseurl }}">Community</a></div>
+        <div><a href="{{ '/archive' | prepend: site.baseurl }}">Archive</a></div>
+        <div><a href="{{ '/before-okrs' | prepend: site.baseurl }}">Before OKRs</a></div>
 
         <div id="title">
           <hr>
