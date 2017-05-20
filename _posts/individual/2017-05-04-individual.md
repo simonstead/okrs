@@ -29,7 +29,7 @@ Key result 1
 
 ---
 **The back**
-> ## Rewrite the Store Dashboard API in python by **the end of june**
+> ## Rewrite the Store Dashboard API in python by **the end of june** that conforms to Co-op Digital's *API Standards*
 
 ### Status
 
