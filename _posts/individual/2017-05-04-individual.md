@@ -34,6 +34,8 @@ Key result 1
 ### Status
 
 * I'm currently looking into which parts we'll need and investigating the pusher python module.
+* I've written down all the API methods I'll need to translate.
+* Currently building a staging environment for the store dashboard to see how it'll work when deployed.
 
 <br>
 
@@ -63,9 +65,11 @@ Key result 3
 
 ### Status
 
-* Rewritten in python.
-* Need to wire it up to an s3 bucket to persist the data
-* Need to update tests
+* Rewritten in python :ballot_box_with_check:
+* Unsure whether we should persist the data to s3, or use a PG database in the backend. Currently exploring both options.
+* Need to update tests when I know which implementation
+* Meeting with Rob Bowley and Anna Goss on 23rd May to discuss its future.
+* Possibly using the publishing platform's forms service.
 
 
 <br><br>

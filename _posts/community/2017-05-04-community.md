@@ -47,6 +47,8 @@ Objective
 **Practice what you teach**
 > ## Share my learnings about React.js with the Front end community
 
+> ## Alternatively, do a brown bag on crypto currencies, like LBRY.
+
 ### Status
 
 * I'm still learning, and will probably do this in **june**.
@@ -61,11 +63,12 @@ Objective
 
 ---
 
-> ## Another Key Result
+**Organisation for the organisation**
+> ## Be the secretary of the Community of Practice. Keep minutes and make sure people are doing what they said they'll do.
 
 ### Status
 
-* How's it going?
+* [view the minutes of our last meeting here here](https://docs.google.com/document/d/1k_qhoidyGP-ojE5MydoAE8YwS6RjePOGCoXaV4iy0bg/edit#)
 
 
 <br><br>
