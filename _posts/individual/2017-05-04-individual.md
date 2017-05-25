@@ -65,11 +65,10 @@ Key result 3
 
 ### Status
 
-* Rewritten in python :ballot_box_with_check:
-* Unsure whether we should persist the data to s3, or use a PG database in the backend. Currently exploring both options.
-* Need to update tests when I know which implementation
-* Meeting with Rob Bowley and Anna Goss on 23rd May to discuss its future.
-* Possibly using the publishing platform's forms service.
+* Rewritten in python (tick)
+* Connected it to a postgres instance inside django, and also written a skeleton admin app the same project.
+* We're going to put a form onto coop.co.uk/forms/, because that'll be the quickest easiest thing to do.
+* Meeting on 30th May with food redistribution team.
 
 
 <br><br>

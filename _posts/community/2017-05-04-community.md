@@ -68,7 +68,7 @@ Objective
 
 ### Status
 
-* [view the minutes of our last meeting here here](https://docs.google.com/document/d/1k_qhoidyGP-ojE5MydoAE8YwS6RjePOGCoXaV4iy0bg/edit#)
+* [view the minutes of our last meeting here](https://docs.google.com/document/d/1k_qhoidyGP-ojE5MydoAE8YwS6RjePOGCoXaV4iy0bg/edit#)
 
 
 <br><br>
