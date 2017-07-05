@@ -30,6 +30,8 @@ also used frameworks/services like:
 
 I'm a lot better at writing shell scripts & terminal commands, and using VIM too.
 
+My TDD skills
+
 ---
 ### Presentations
 
@@ -62,24 +64,25 @@ Business analysis (LTW)
 
 ### eStore
 
-eStore - HTML5 Ad Banners, SEO and analytics, as well as generally pitching in with episerver. (terms and conds)
+eStore - HTML5 Ad Banners, SEO and analytics, as well as generally pitching in with episerver. (terms and conds).
 
 When Co-op electrical was going live they needed people pitching in; I wrote HTML5 ad banners for doubleclick for them; I advised and helped search engine optimization, as well as the google analytics traffic we were recieving.
 
-I helped to CPU profile the website on various mobile devices to understand
+I helped to performance profile the website on various mobile devices to understand how/where users were dropping off the site.
 
 ### Service Maturity Standards
 The delivery community needed a website for their Service Manual (what it means to be alpha, beta or live) on a very tight deadline ready for a show & tell.
 
 I was asked to help and happily obliged, and succe
 
-### Memebership join us campaign
+### Membership join us campaign
+Ciaran and I paired dev/design to make 6 different pages for the memebership 'join us' campaign, on short notice, to use for A/B testing.
 
 ---
 
 ### Content Design
 
-My content desgin skills have improved too.
+My content design skills have improved too.
 
 I've written week notes often, blog posts, report documents for leading the way discovery.
 
@@ -92,7 +95,9 @@ I can communicate better, and say what I need to more succinctly, through workin
 
 I've personally conducted store interviews with at least 12 colleagues over 6 different Co-op stores.
 
-While being perfectly unbiased is challenging, I am aware in an interview of the importance of not asking leading questions, allowing the subject to fill the silence, and not making assumptions or allowing them to
+While being perfectly unbiased is challenging, I am aware in an interview of the importance of not asking leading questions, not making assumptions and allowing the subject to fill the silence.
+
+I'm not there yet,
 
 Wavertree Church Road
 Green Quarter
@@ -111,16 +116,15 @@ design
 ---
 
 
-lead a front end dev community workshop
-
+lead a front end dev community workshop { get tweet from Matt tyas }
 
 community: experience day for kids who came in (lego and agile)
-
-pairing with designers
-* memebership join us campaign
 
 
 ### Repos
 
 foodshare
 store Dashboard
+
+### other
+Helping store managers out of office hours, given my phone number so they can contact me directly.
